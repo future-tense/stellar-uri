@@ -32,7 +32,7 @@ Extending trust to a gateway (or other user)
 
 ```
 stellar: trust? address = <address> &
-                amount = <100/USD> &
+                amount = <amount> &
                 signature = <signed hash>
 ```
 
